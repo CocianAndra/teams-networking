@@ -1,1 +1,1 @@
-console.info("start app")
+console.info("start app");
