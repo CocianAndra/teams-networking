@@ -1,25 +1,25 @@
 [
     
     {
-        "promotion": "FastTrackIT", 
+    "promotion": "Udemy", 
+    "members": "Andra Cocian", 
+    "name": "We", 
+    "url":"https://github.com/CocianAndra/teams-networking"},
+
+    {
+    "promotion": "Personal", 
     "members": "Andra Cocian", 
     "name": "Teams Networking", 
     "url":"https://github.com/CocianAndra/teams-networking"},
 
     {
-        "promotion": "FastTrackIT", 
+    "promotion": "FastTrackIT", 
     "members": "Andra Cocian", 
     "name": "Teams Networking", 
     "url":"https://github.com/CocianAndra/teams-networking"},
 
     {
-        "promotion": "FastTrackIT", 
-    "members": "Andra Cocian", 
-    "name": "Teams Networking", 
-    "url":"https://github.com/CocianAndra/teams-networking"},
-
-    {
-        "promotion": "FastTrackIT", 
+    "promotion": "FastTrackIT", 
     "members": "Andra Cocian", 
     "name": "Teams Networking", 
     "url":"https://github.com/CocianAndra/teams-networking"}
